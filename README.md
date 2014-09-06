@@ -1,11 +1,10 @@
 ##Local Network Scanner
-======================
 
 A small python script that pings IP's based on your local network
 to see if hosts are online.
 
 ##Requires
-========== 
+
 - Python 2.7
 - Ping Module (Included in Package)
 
